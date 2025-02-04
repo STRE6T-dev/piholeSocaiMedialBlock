@@ -51,3 +51,4 @@
 0.0.0.0 myspace.com
 0.0.0.0 www.myspace.com
 0.0.0.0 api.myspace.com
+0.0.0.0 www.xvideos.com
