@@ -80,7 +80,28 @@
 0.0.0.0 graph.instagram.com
 0.0.0.0 i.instagram.com
 0.0.0.0 scontent.cdninstagram.com
-
 0.0.0.0 www.myspace.com
 0.0.0.0 api.myspace.com
 0.0.0.0 www.xvideos.com
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 api.facebook.com
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 fb.com
+0.0.0.0 meta.com
+0.0.0.0 www.meta.com
+0.0.0.0 business.facebook.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 api.instagram.com
+0.0.0.0 cdn.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 scontent.cdninstagram.com
+
