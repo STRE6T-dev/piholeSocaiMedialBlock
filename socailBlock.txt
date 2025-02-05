@@ -102,6 +102,17 @@
 0.0.0.0 api.instagram.com
 0.0.0.0 cdn.instagram.com
 0.0.0.0 graph.instagram.com
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 ytimg.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 googlevideo.com
+0.0.0.0 *.googlevideo.com
+
 0.0.0.0 i.instagram.com
 0.0.0.0 scontent.cdninstagram.com
 
